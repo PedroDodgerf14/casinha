@@ -1,0 +1,148 @@
+body{
+	margin: 0; padding: 0;
+}
+.section_tela{
+	width: 100vw;
+	height: 100vh;
+	background: #000011;
+	position: relative;
+}
+.block_casa{
+	width: 400px;
+	height: 300px;
+	background: #223344;
+	position: absolute;
+	left:500px;
+	top: 300px;
+}
+.block_telhado{
+	width: 500px;
+	height: 50px;
+	background: #225534;
+	position: absolute;
+	left:450px;
+	top: 250px;	
+}
+.block_telhadomedio{
+	width: 300px;
+	height: 50px;
+	background: #325534;
+	position: absolute;
+	left:550px;
+	top: 200px;	
+}
+.block_telhadomenor{
+	width: 200px;
+	height: 50px;
+	background: #225434;
+	position: absolute;
+	left:600px;
+	top: 150px;	
+}
+.block_porta{
+	width: 100px;
+	height: 250px;
+	background: #225424;
+	position: absolute;
+	left:700px;
+	top: 350px;	
+}
+.block_abridor{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background: #505424;
+	position: absolute;
+	left:760px;
+	top: 450px;	
+}
+.block_janela{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	position: absolute;
+	left:550px;
+	top: 350px;		
+}
+.block_rio{
+	width: 100vw;
+	height: 100px;
+	background: blue;
+	position: absolute;
+	bottom: 0;		
+}
+.block_casareflexo{
+	width: 400px;
+	height: 100px;
+	background: rgba(34,51,68,0.5);
+	position: absolute;
+	left:500px;
+	bottom: 0;
+}
+.block_portareflexo{
+	width: 100px;
+	height: 100px;
+	background: rgba(34,84,36, 0.5);
+	position: absolute;
+	left:700px;
+	bottom: 0;	
+}
+.block_madeira{
+	width: 10px;
+	height: 240px;
+	background: gray;
+	position: absolute;
+	left:550px;
+	top: 10px;		
+}
+.block_bandeira{
+	width: 200px;
+	height: 100px;
+	background: white;
+	position: absolute;
+	left:350px;
+	top: 10px;		
+
+}
+.block_simbolo{
+	width: 90px;
+	height: 90px;
+	background: red;
+	border-radius: 50%;
+	position: absolute;
+	left:400px;
+	top: 15px;	
+}
+.block_madeira1{
+	width: 10px;
+	height: 240px;
+	background: gray;
+	position: absolute;
+	right:440px;
+	top: 10px;		
+}
+.block_simbolo1{
+	width: 200px;
+	height: 100px;
+	background: black;
+	position: absolute;
+	right:240px;
+	top: 10px;		
+
+}
+.block_simbolo2{
+    width: 70px;
+	height: 100px;
+	background: yellow;
+	position: absolute;
+	right:300px;
+	top: 10px;
+}
+.block_simbolo3{
+    width: 70px;
+	height: 100px;
+	background: red;
+	position: absolute;
+	right:230px;
+	top: 10px;
+}
